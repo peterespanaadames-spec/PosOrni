@@ -1,0 +1,6 @@
+{
+  "name": "VentasPRO",
+  "description": "Terminal Punto de Venta (TPV/POS) inteligente con control de inventario en tiempo real, gestión de compras, CRM, planificación de equipo y sincronización con Firebase Firestore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
